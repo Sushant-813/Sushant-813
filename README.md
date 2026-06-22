@@ -1,73 +1,9 @@
-# Hi, I'm Sushant 👋
+<h1 align="center">Hi 👋, I'm Sushant Sharma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## 🚀 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-* 🎓 Computer Science Student
-* 🌱 Currently learning **Java, Spring Boot, MySQL, and DSA**
-* 💻 Solving coding problems and building backend projects
-* 🎯 Interested in Software Development, FinTech, and Machine Learning
-* 📚 Learning Spring Boot to build production-ready applications
-
-## 🛠️ Tech Stack
-
-### Languages
-
-* Java
-* C++
-* SQL
-
-### Backend
-
-* Spring Boot
-* Spring Data JPA
-* Hibernate
-* REST APIs
-
-### Database
-
-* MySQL
-* PostgreSQL
-
-### Tools
-
-* Git
-* GitHub
-* IntelliJ IDEA
-* VS Code
-* MySQL Workbench
-
-## 📌 Featured Projects
-
-### URL Shortener
-
-A full-stack URL shortening platform with:
-
-* JWT Authentication
-* Role-Based Access Control
-* Analytics Dashboard
-* Spring Boot + React
-
-### Event Management & Ticketing System
-
-* Event Creation and Management
-* Secure Ticket Booking
-* QR Code Tickets
-* JWT Authentication
-
-### Indian Sign Language to Text Converter
-
-* Real-time gesture recognition
-* OpenCV and Machine Learning
-* Converts sign language into readable text
-
-## 📈 GitHub Stats
-
-* Consistently learning and building projects
-* Practicing Data Structures & Algorithms
-* Exploring Backend Development
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Sushant-813
-
-⭐ Always open to learning, collaboration, and new opportunities.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>

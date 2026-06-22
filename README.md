@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Sushant 👋
 
-<!--
-**Sushant-813/Sushant-813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 Computer Science Student
+* 🌱 Currently learning **Java, Spring Boot, MySQL, and DSA**
+* 💻 Solving coding problems and building backend projects
+* 🎯 Interested in Software Development, FinTech, and Machine Learning
+* 📚 Learning Spring Boot to build production-ready applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* C++
+* SQL
+
+### Backend
+
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* REST APIs
+
+### Database
+
+* MySQL
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+* MySQL Workbench
+
+## 📌 Featured Projects
+
+### URL Shortener
+
+A full-stack URL shortening platform with:
+
+* JWT Authentication
+* Role-Based Access Control
+* Analytics Dashboard
+* Spring Boot + React
+
+### Event Management & Ticketing System
+
+* Event Creation and Management
+* Secure Ticket Booking
+* QR Code Tickets
+* JWT Authentication
+
+### Indian Sign Language to Text Converter
+
+* Real-time gesture recognition
+* OpenCV and Machine Learning
+* Converts sign language into readable text
+
+## 📈 GitHub Stats
+
+* Consistently learning and building projects
+* Practicing Data Structures & Algorithms
+* Exploring Backend Development
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Sushant-813
+
+⭐ Always open to learning, collaboration, and new opportunities.

@@ -70,19 +70,17 @@ Currently, I'm focused on strengthening my backend development skills with Java 
 
 ## 📌 Featured Projects
 
-### 🔗 URL Shortener Service
+### 🔗 URL Shortener Service(https://github.com/Sushant-813/URL-Shortener-Service)
 
-A secure URL shortening service built with Spring Boot featuring JWT authentication, URL analytics, click tracking, and MySQL integration.
+A production-style URL Shortener built using Spring Boot, Spring Security, JWT, JPA/Hibernate, and MySQL.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sushant-813/url-shortener-service)
 
 > More projects coming soon...
 
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant-813&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-813&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sushant-813&theme=github-dark&hide_border=true)
 ---

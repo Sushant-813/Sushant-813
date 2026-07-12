@@ -1,4 +1,7 @@
 # Hi there, I'm Sushant Sharma 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=3BA4F2&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=Sushant-813&color=blue)
 
 I'm a  student who enjoys building backend applications and learning how real-world software is designed.
 
@@ -77,8 +80,11 @@ A secure URL shortening service built with Spring Boot featuring JWT authenticat
 
 ## 📈 GitHub Stats
 
-<!-- Replace <Sushant-813> with your GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant-813&show_icons=true&theme=github_dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-813&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sushant-813&theme=github-dark&hide_border=true)
 ---
 
 ## 🤝 Connect With Me

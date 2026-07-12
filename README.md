@@ -70,7 +70,7 @@ Currently, I'm focused on strengthening my backend development skills with Java 
 
 ## 📌 Featured Projects
 
-### 🔗 URL Shortener Service(https://github.com/Sushant-813/URL-Shortener-Service)
+### 🔗 URL Shortener Service
 
 A production-style URL Shortener built using Spring Boot, Spring Security, JWT, JPA/Hibernate, and MySQL.
 

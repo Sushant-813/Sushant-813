@@ -1,9 +1,90 @@
-<h1 align="center">Hi 👋, I'm Sushant Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Sushant Sharma 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a  student who enjoys building backend applications and learning how real-world software is designed.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Currently, I'm focused on strengthening my backend development skills with Java and Spring Boot while consistently practicing Data Structures & Algorithms. My goal is to become a well-rounded software engineer by building production-style projects instead of relying solely on tutorials.
+
+---
+
+## 🚀 Currently Working On
+
+* 🔗 URL Shortener Service (Spring Boot)
+* 🌱 Learning Spring Boot & Spring Security
+* 💻 Practicing Data Structures & Algorithms in Java
+* 🗄️ Improving SQL and Database Design skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* SQL
+
+### Backend
+
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* JWT Authentication
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* Maven
+* Postman
+* IntelliJ IDEA
+* VS Code
+
+---
+
+## 📚 Currently Learning
+
+* Backend Architecture
+* Authentication & Authorization
+* Database Design
+* API Development
+* Clean Code Practices
+* Software Engineering Fundamentals
+
+---
+
+## 🎯 2026 Goals
+
+* Build multiple production-style backend projects
+* Improve problem-solving skills through DSA
+* Strengthen system design fundamentals
+
+---
+
+## 📌 Featured Projects
+
+### 🔗 URL Shortener Service
+
+A secure URL shortening service built with Spring Boot featuring JWT authentication, URL analytics, click tracking, and MySQL integration.
+
+> More projects coming soon...
+
+---
+
+## 📈 GitHub Stats
+
+<!-- Replace <Sushant-813> with your GitHub username -->
+
+---
+
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/Sushant-813
+
+---
+
+> *"Consistency beats intensity. Keep building, keep learning."*

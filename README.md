@@ -80,19 +80,6 @@ A production-style URL Shortener built using Spring Boot, Spring Security, JWT, 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sushant-813&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Sushant-813&theme=github-dark&hide_border=true"
-    height="180"
-  />
-</p>
----
 
 ## 🤝 Connect With Me
 

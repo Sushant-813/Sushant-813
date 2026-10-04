@@ -144,6 +144,18 @@ A production-style, event-sourced double-entry financial ledger built with **Jav
 
 ---
 
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sushant-813&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushant-813&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">

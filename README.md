@@ -111,9 +111,7 @@ A production-style URL shortening service built with **Spring Boot, Spring Secur
 
 ### 💰 Event Sourced Ledger
 
-A backend system implementing an **event-sourced, double-entry financial ledger** using Java and Spring Boot.
-
-The project focuses on understanding how financial systems can derive account balances from an immutable history of events rather than storing mutable balances as the source of truth.
+A production-style, event-sourced double-entry financial ledger built with **Java, Spring Boot, JPA/Hibernate, and Flyway**, where account balances are derived from an immutable history of events instead of a mutable balance field.
 
 **Key Features**
 
@@ -121,101 +119,16 @@ The project focuses on understanding how financial systems can derive account ba
 - Double-entry bookkeeping
 - Account management
 - Deposits, withdrawals, and transfers
-- Immutable financial events
-- Ledger entry generation
+- Immutable financial events and ledger entries
 - Balance reconstruction from event history
-- Historical balance reconstruction
-- Transactional workflows
-- Concurrency handling
+- Historical balance queries
+- Transactional workflows and concurrency handling
 - Deterministic event ordering
-- Audit trail and historical queries
-- Pagination
-- Database indexing
-- Flyway database migrations
+- Audit trail with paginated queries
+- Database indexing and Flyway migrations
 - Comprehensive automated testing
 
-**Architecture Concepts**
-
-```text
-                         ┌──────────────────┐
-                         │     Command      │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                    ┌──────────────────────────┐
-                    │ Transaction / Operation  │
-                    └────────────┬─────────────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    ▼                         ▼
-           ┌─────────────────┐      ┌─────────────────┐
-           │      Event      │      │  Ledger Entries │
-           └────────┬────────┘      └────────┬────────┘
-                    │                        │
-                    └────────────┬───────────┘
-                                 ▼
-                    ┌──────────────────────────┐
-                    │   Immutable History      │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │ Balance Reconstruction   │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │     Account Balance      │
-                    └──────────────────────────┘
-```
-
-The project explores real backend engineering concerns including:
-
-- **Transaction boundaries**
-- **Consistency**
-- **Concurrency**
-- **Immutable history**
-- **Auditability**
-- **Historical reconstruction**
-- **Deterministic state reconstruction**
-- **Double-entry accounting**
-
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sushant-813/event-sourced-ledger)
-
----
-
-## 📊 Development Focus
-
-```text
-                         JAVA
-                           │
-                           ▼
-                     SPRING BOOT
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-       REST APIs        SECURITY        PERSISTENCE
-          │                │                │
-          │                │                ▼
-          │                │             DATABASES
-          │                │                │
-          │                │       ┌────────┴────────┐
-          │                │       ▼                 ▼
-          │                │      SQL            INDEXING
-          │                │
-          └────────────────┼────────────────┐
-                           ▼                │
-                   BACKEND ARCHITECTURE    │
-                           │                │
-              ┌────────────┼────────────┐   │
-              ▼            ▼            ▼   │
-        EVENT SOURCING  CONCURRENCY  SYSTEM DESIGN
-              │            │            │
-              └────────────┼────────────┘
-                           ▼
-                  SOFTWARE ENGINEERING
-```
 
 ---
 
